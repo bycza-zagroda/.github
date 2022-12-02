@@ -9,7 +9,7 @@
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) -->
 
 <h3 align="center"> 🙋‍♀️ Welcome to our Open Source project - Track Expensess App</h3>
- The main aim for this project is for it to allow a user to track their own expenses. Projest is developing to leaarn va and Spring Boot base on application and to gain more experience.
+ The main aim for this project is for it to allow a user to track their own expenses. Projest is developing to leaarn java and Spring Boot base on application and to gain more experience.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bycza-zagroda&label=Profile%20views&color=0e75b6&style=flat" alt="bycza-zagroda" /> </p>
 
