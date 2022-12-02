@@ -1,17 +1,15 @@
-## <h2 align="center"> Hi 👋 we're Bycza Zagroda community </h2>
+## <h2 align="center"> Hi we're Bycza Zagroda community 👋</h2>
 
-<!--
-
-**Here are some ideas to get you started:**
+<!-- **Here are some ideas to get you started:**
 
 🙋‍♀️ A short introduction - what is your organization all about?
 🌈 Contribution guidelines - how can the community get involved?
 👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
 🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) -->
 
-<h3 align="center">Welcome to our Open Source project - Track Expensess App</h3>
+<h3 align="center"> 🙋‍♀️ Welcome to our Open Source project - Track Expensess App</h3>
+ The main aim for this project is for it to allow a user to track their own expenses. Projest is developing to leaarn va and Spring Boot base on application and to gain more experience.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bycza-zagroda&label=Profile%20views&color=0e75b6&style=flat" alt="bycza-zagroda" /> </p>
 
