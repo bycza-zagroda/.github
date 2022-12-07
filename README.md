@@ -1,5 +1,8 @@
 ## <h2 align="center"> Hi we're Bycza Zagroda community 👋</h2>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bycza-zagroda&label=Profile%20views&color=0e75b6&style=flat" alt="bycza-zagroda" /> </p>
+
+
 <!-- **Here are some ideas to get you started:**
 
 🙋‍♀️ A short introduction - what is your organization all about?
@@ -8,10 +11,27 @@
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) -->
 
+ 
+### O nas
+Witamy na stronie społeczności Bycza Zagroda. Celem grupy jest wspólna nauka programowanie oraz wymiana doświadczeń między uczestnikami. 
+
+Poprzez uczestnictwo w grupie mamy możliwość spróbować swoich sił w pracy zespołowej i zweryfikowania swoich umiejętności zarówno twardych jak i miękkich. Dzięki wspólnym spotkaniom możemy wymieniać się wiedzą i doświadczeniem. 
+
+### Kim jesteśmy
+Zespół tworzą:
+
+  - Tutaj lista z PM i liderami. 
+
+Grupa jest otwarta na wszystkich chętnych, wystarczy wejść na naszego discorda (tutaj adres kanału) i się zarejestrować. 
+
+### Nasze projekty
+
+
 <h3 align="center"> 🙋‍♀️ Welcome to our Open Source project - Track Expensess App</h3>
  The main aim for this project is for it to allow a user to track their own expenses. Projest is developing to leaarn java and Spring Boot base on application and to gain more experience.
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bycza-zagroda&label=Profile%20views&color=0e75b6&style=flat" alt="bycza-zagroda" /> </p>
+<br/><br/>
+Aktualnie wspólnie pracujemy nad projektem aplikacji TracExpensesApp służącej do śledzenia wydatków. Więcej informacji o tym projekcie znajdziesz na stronach poświeconych odpowiednio backendowi i frontendowi (wstawić odpowiednie linki).
+ 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bycza-zagroda" alt="bycza-zagroda" /></a> </p>
 
@@ -21,11 +41,12 @@
 
 - 📫 How to reach us **https://discord.gg/kPgkDGXeQw zakładka OPEN SOURCE**
 
-<h3 align="left">Connect with us:</h3>
-<p align="left">
-<a href="https://discord.gg/https://discord.gg/kPgkDGXeQw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/kPgkDGXeQw" height="30" width="40" /></a>
-</p>
+<h3 align="left">Connect with us:
+<a href="https://discord.gg/https://discord.gg/kPgkDGXeQw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/kPgkDGXeQw" height="40" width="50" /></a>
+</h3>
 <h3 align="left">Languages and Tools:</h3>
+
+
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
