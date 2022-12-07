@@ -33,8 +33,6 @@ Grupa jest otwarta na wszystkich chętnych, wystarczy wejść na naszego discord
 Aktualnie wspólnie pracujemy nad projektem aplikacji TracExpensesApp służącej do śledzenia wydatków. Więcej informacji o tym projekcie znajdziesz na stronach poświeconych odpowiednio backendowi i frontendowi (wstawić odpowiednie linki).
  
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bycza-zagroda" alt="bycza-zagroda" /></a> </p>
-
 - 👨‍💻 All of our projects are available at [https://github.com/bycza-zagroda](https://github.com/bycza-zagroda)
 
 - 💬 Ask us about **Track Expensess App project**
@@ -56,7 +54,4 @@ Aktualnie wspólnie pracujemy nad projektem aplikacji TracExpensesApp służące
 <p align="left"> 
 <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bycza-zagroda&show_icons=true&theme=dracula&locale=en&layout=compact" alt="bycza-zagroda" /></p>
-
-![Bycza-Zagroda's GitHub stats](https://github-readme-stats.vercel.app/api?username=bycza-zagroda&show_icons=true&theme=dracula)
-![Bycza-Zagroda's GitHub stats](https://github-readme-stats.vercel.app/api?username=iwona007&show_icons=true&theme=gotham)
+![Bycza-Zagroda's GitHub stats](https://github-readme-stats.vercel.app/api?username=iwona007&show_icons=true&theme=transparent)
