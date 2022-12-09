@@ -12,25 +12,26 @@
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) -->
 
  
-### O nas
-Witamy na stronie społeczności Bycza Zagroda. Celem grupy jest wspólna nauka programowanie oraz wymiana doświadczeń między uczestnikami. 
+### About us
+Welcome on Bycza Zagroda community page. The aim of this community is to learn programming together and exchange experiences between participants.
 
-Poprzez uczestnictwo w grupie mamy możliwość spróbować swoich sił w pracy zespołowej i zweryfikowania swoich umiejętności zarówno twardych jak i miękkich. Dzięki wspólnym spotkaniom możemy wymieniać się wiedzą i doświadczeniem. 
+By participating in a group, we have the opportunity to try our hand at teamwork to develop and verify our skills, both hard and soft. Thanks to joint meetengs, we can exchange knowledge and experience.
 
-### Kim jesteśmy
-Zespół tworzą:
+### Who we are
+Participants:
 
   - Tutaj lista z PM i liderami. 
 
-Grupa jest otwarta na wszystkich chętnych, wystarczy wejść na naszego discorda (tutaj adres kanału) i się zarejestrować. 
+The community is open to everyone, just go to our discord <a href="https://discord.gg/https://discord.gg/kPgkDGXeQw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/kPgkDGXeQw" height="30" width="40" /></a> and register.
 
-### Nasze projekty
+### Our projects
 
 
 <h3 align="center"> 🙋‍♀️ Welcome to our Open Source project - Track Expensess App</h3>
- The main aim for this project is for it to allow a user to track their own expenses. Projest is developing to leaarn java and Spring Boot base on application and to gain more experience.
+We are currently working together on the Track Expenses App project.
+The main aim for this project is for it to allow a user to track their own expenses and incomes. Projest is developing to leaarn java and Spring Boot base on application and to gain more experience.
 <br/><br/>
-Aktualnie wspólnie pracujemy nad projektem aplikacji TracExpensesApp służącej do śledzenia wydatków. Więcej informacji o tym projekcie znajdziesz na stronach poświeconych odpowiednio backendowi i frontendowi (wstawić odpowiednie linki).
+
  
 
 - 👨‍💻 All of our projects are available at [https://github.com/bycza-zagroda](https://github.com/bycza-zagroda)
