@@ -14,8 +14,8 @@
  
 ### About us
 Welcome on „Bycza Zagroda” community. The main community’s goals are:
-    • gain experience of programming together or pair programming between participants and exchange our expertise.
-    • By participating here, we have a great opportunity to try our hand at teamwork, develop and master our hard and soft skills.
+- gain experience of programming together or pair programming between participants and exchange our expertise.
+- By participating here, we have a great opportunity to try our hand at teamwork, develop and master our hard and soft skills.
 Currently we are working on our very first community project Track Expenses App (hiperlink)  Moreover our community is open to everyone who is willing to learn on programming field. Just go to our discord (hiperlink)
 
 The community is open to everyone, just go to our discord <a href="https://discord.gg/https://discord.gg/kPgkDGXeQw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/kPgkDGXeQw" height="30" width="40" /></a> and register.
