@@ -13,36 +13,33 @@
 
  
 ### About us
-Welcome on Bycza Zagroda community page. The aim of this community is to learn programming together and exchange experiences between participants.
-
-By participating in a group, we have the opportunity to try our hand at teamwork to develop and verify our skills, both hard and soft. Thanks to joint meetengs, we can exchange knowledge and experience.
-
-### Who we are
-Participants:
-
-  - Tutaj lista z PM i liderami. 
+Welcome on „Bycza Zagroda” community. The main community’s goals are:
+    • gain experience of programming together or pair programming between participants and exchange our expertise.
+    • By participating here, we have a great opportunity to try our hand at teamwork, develop and master our hard and soft skills.
+Currently we are working on our very first community project Track Expenses App (hiperlink)  Moreover our community is open to everyone who is willing to learn on programming field. Just go to our discord (hiperlink)
 
 The community is open to everyone, just go to our discord <a href="https://discord.gg/https://discord.gg/kPgkDGXeQw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/kPgkDGXeQw" height="30" width="40" /></a> and register.
 
-### Our projects
-
-
-<h3 align="center"> 🙋‍♀️ Welcome to our Open Source project - Track Expensess App</h3>
-We are currently working together on the Track Expenses App project.
-The main aim for this project is for it to allow a user to track their own expenses and incomes. Projest is developing to leaarn java and Spring Boot base on application and to gain more experience.
-<br/><br/>
-
- 
-
-- 👨‍💻 All of our projects are available at [https://github.com/bycza-zagroda](https://github.com/bycza-zagroda)
+### Sum up:
+- 🙋‍♀️ We are „Bycza Zagroda” community
+<!-- - 👨‍💻 All of our projects are available at [https://github.com/bycza-zagroda](https://github.com/bycza-zagroda) -->
 
 - 💬 Ask us about **Track Expensess App project**
 
-- 📫 How to reach us **https://discord.gg/kPgkDGXeQw zakładka OPEN SOURCE**
+- 📫 How to reach us: just click on <a href="https://discord.gg/https://discord.gg/kPgkDGXeQw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/kPgkDGXeQw" height="40" width="50" /></a>
 
-<h3 align="left">Connect with us:
+<!-- <h3 align="left">Connect with us:
 <a href="https://discord.gg/https://discord.gg/kPgkDGXeQw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/kPgkDGXeQw" height="40" width="50" /></a>
-</h3>
+</h3> -->
+<!-- - **https://discord.gg/kPgkDGXeQw** -->
+
+<h3 align="center"> Open Source project - Track Expensess App</h3>
+We are currently working on the Track Expenses App project for users to help them track their own expenses and incomes/revenues. Balance which you will receive, will be based on calculation between your receivables and payables. 
+We’re achieving implementation progress in order to deliver you base version of this App for now.
+We’re resolving interesting problems connected to architecture and implementation.  We address them by using docker-compose with database connected to Liquibase. We’re doing this to communicate our back-end and front-end. User of this application will see user interface base on Angular which is supported by Spring Boot.
+      💬 Ask us about Track Expenses App project click on   and sign up here: (screenshot) 
+
+
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left"> 
