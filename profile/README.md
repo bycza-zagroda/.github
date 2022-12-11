@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi we're Bycza Zagroda community 👋
 
 <!--
 
