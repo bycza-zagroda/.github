@@ -55,4 +55,5 @@ We’re resolving interesting problems connected to architecture and implementat
 </a>
 </p>
 
-![Bycza-Zagroda's GitHub stats](https://github-readme-stats.vercel.app/api?username=iwona007&show_icons=true&theme=transparent)
+<!-- ![Bycza-Zagroda's GitHub stats](https://github-readme-stats.vercel.app/api?username=iwona007&show_icons=true&theme=transparent)
+ -->
