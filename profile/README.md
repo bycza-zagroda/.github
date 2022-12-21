@@ -36,7 +36,7 @@ Welcome you to our community, which is open to everyone who is willing to learn 
 <h3 align="center"> Open Source project - Track Expenses App</h3>
 
 We are currently working on the Track Expenses App project for users to help them track their own expenses and incomes/revenues. Balances, which you will receive, via the app, will be based on calculation between your receivables and payables. We are developing a skeleton/bare bones/minimal version of this App for pre official-release user testing. We’re resolving interesting problems connected to architecture and implementation. We address them by using docker-compose with a database connected to Liquibase. We’re doing this to improve communication between our back-end and front-end. The User will see a user interface based on Angular which is supported by Spring Boot. 
-💬 Ask us about the Track Expenses App project click on and sign up here
+<!-- 💬 Ask us about the Track Expenses App project click on and sign up here -->
 
 <h3 align="left">TOOLBOX our skills set:</h3>
 
