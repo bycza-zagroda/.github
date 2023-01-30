@@ -14,9 +14,9 @@
  
 ### About us
 We are a programming community! We want to
-- Release our very first community project Track Expenses App
+- release our very first community project Track Expenses App
 - gain experience programming together and with mentorship to exchange our expertise.
-- Develop our collaboration skills, and to develop and master our hard and soft skills.
+- develop our collaboration skills, and to develop and master our hard and soft skills.
 
 Welcome you to our community, which is open to everyone who is willing to learn in the programming field. Just go to our discord <a href="https://discord.gg/https://discord.gg/kPgkDGXeQw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/kPgkDGXeQw" height="30" width="40" /></a> and register.
 
