@@ -53,5 +53,5 @@ We are currently working on the Track Expenses App project for users to help the
 <a href="https://github.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="40" height="40" alt="github"/></a>
 <a href="https://www.liquibase.org/" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/438548?s=40&v=4" width="40" height="40" alt="Liquibase"/></a>
 <a href="https://seohost.pl/"><img src="https://scontent-waw1-1.xx.fbcdn.net/v/t39.30808-6/291820635_554973776072570_7626130337002586506_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=KozE-_HYdUUAX_jMUQ2&_nc_ht=scontent-waw1-1.xx&oh=00_AfAC9HUZrFr970pnrZLUk7FGbKL0nlOrhhbqUkzq69sxhw&oe=64000216" height="40"/></a>
-<a href="https://www.koyeb.com/"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/koyeb.svg" alt="koyeb" height="30" /></a>
+<a href="https://www.koyeb.com/"><img src="https://cdn2.systemsdigest.com/sites/default/files/logos/koyeb-logo.png" alt="koyeb" height="30" /></a>
 </p>
