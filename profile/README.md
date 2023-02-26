@@ -41,17 +41,17 @@ We are currently working on the Track Expenses App project for users to help the
 <h3 align="left">TOOLBOX our skills set:</h3>
 
 <p> 
-<a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> 
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
-<a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> 
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
-<a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" width="40" height="40" alt="java"></a>
-<a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"><img src="https://resources.jetbrains.com/storage/products/company/brand/logos/IntelliJ_IDEA_icon.svg" width="40" height="40" alt="IntelliJ" /></a>
-<a href="https://github.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="40" height="40" alt="github"/></a>
+<a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/bycza-zagroda/.github/main/profile/logos/angular.png" alt="angular" width="40" height="40"/> </a> 
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/bycza-zagroda/.github/main/profile/logos/docker-original-wordmark.png" alt="docker" width="40" height="40"/> </a> 
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/bycza-zagroda/.github/main/profile/logos/Git-Icon-1788C.png" alt="git" width="40" height="40"/> </a> 
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/bycza-zagroda/.github/main/profile/logos/logo-mysql-170x115.png" alt="mysql" height="40"/> </a> 
+<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/bycza-zagroda/.github/main/profile/logos/postman.png" alt="postman" width="40" height="40"/> </a> 
+<a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/bycza-zagroda/.github/main/profile/logos/spring.png" alt="spring" width="40" height="40"/> </a> 
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/bycza-zagroda/.github/main/profile/logos/typescript-original.png" alt="typescript" width="40" height="40"/> </a> 
+<a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/bycza-zagroda/.github/main/profile/logos/java-icon.png" height="40" alt="java"></a>
+<a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/bycza-zagroda/.github/main/profile/logos/IntelliJ_IDEA_icon.png" width="40" height="40" alt="IntelliJ" /></a>
+<a href="https://github.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/bycza-zagroda/.github/main/profile/logos/github-mark.png" width="40" height="40" alt="github"/></a>
 <a href="https://www.liquibase.org/" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/438548?s=40&v=4" width="40" height="40" alt="Liquibase"/></a>
-<a href="https://seohost.pl/"><img src="https://scontent-waw1-1.xx.fbcdn.net/v/t39.30808-6/291820635_554973776072570_7626130337002586506_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=KozE-_HYdUUAX_jMUQ2&_nc_ht=scontent-waw1-1.xx&oh=00_AfAC9HUZrFr970pnrZLUk7FGbKL0nlOrhhbqUkzq69sxhw&oe=64000216" height="40"/></a>
-<a href="https://www.koyeb.com/"><img src="https://cdn2.systemsdigest.com/sites/default/files/logos/koyeb-logo.png" alt="koyeb" height="40" /></a>
+<a href="https://seohost.pl/"><img src="https://raw.githubusercontent.com/bycza-zagroda/.github/main/profile/logos/seohost.png" height="40"/></a>
+<a href="https://www.koyeb.com/"><img src="https://raw.githubusercontent.com/bycza-zagroda/.github/main/profile/logos/koyeb-logo.png" alt="koyeb" height="40" /></a>
 </p>
